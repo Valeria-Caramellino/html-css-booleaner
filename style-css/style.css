@@ -31,5 +31,28 @@ thead{
     text-align: left;
 }
 .sfondo-azzurro{
-    background-color: lightskyblue;
+    background-color: lightblue;
+}
+h3{
+    color: gray;
+}
+.foto{
+    width: 250px;
+    height: 250px;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.background1{
+    background-image: url(../style-css/img/monitor.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.background2{
+    background-image: url(../style-css/img/graph.jpg);
+    background-size: cover;
+    background-position: center;
+}
+p.posizione{
+    margin-left: 20px;
 }
