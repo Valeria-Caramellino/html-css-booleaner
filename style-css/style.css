@@ -30,6 +30,9 @@ thead{
     color: white;
     text-align: left;
 }
+table{
+    border-collapse: collapse;
+}
 .sfondo-azzurro{
     background-color: lightblue;
 }
